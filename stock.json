@@ -1,0 +1,20 @@
+{
+    "materiels": {
+        "1": {
+            "nom": "Clavier standard",
+            "quantite": 4
+        },
+        "2": {
+            "nom": "Alim 65W HP USB C",
+            "quantite": 5
+        },
+        "4": {
+            "nom": "Souris filaire",
+            "quantite": 5
+        },
+        "5": {
+            "nom": "Ecrans secondaires",
+            "quantite": 3
+        }
+    }
+}
